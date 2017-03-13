@@ -5,8 +5,24 @@
 
 ## Architecture
 
+### Architecture design
+[Artificial Neural Networks what is the difference between activation functions](https://www.quora.com/Artificial-Neural-Networks-What-is-the-difference-between-activation-functions)
+Recommanded
 
-### Activation Functions
+Output Layer - Linear for regression, softmax for classification
+Hidden Layers - Hyperbolic tangent for shallow networks (less than 3 hidden layers) and ReLU for deep networks
+
+[Neural Network architecture design](http://stackoverflow.com/questions/20009078/neural-network-architecture-design)
+
+Activation functions
+
+Gradient descent
+
+Momentum
+
+Hessian-Free
+
+###@ Activation Functions
 
 INPUT layer?
 
