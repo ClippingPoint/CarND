@@ -30,7 +30,7 @@ Momentum
 
 Hessian-Free
 
-###@ Activation Functions
+#### Activation Functions
 
 INPUT layer?
 
@@ -70,4 +70,6 @@ PReLu,
 Anti-rectifier??
 
 
+#### Regularization
 
+[Overfitting and Regularization](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
