@@ -1,6 +1,14 @@
 # CarND
 
-# Deep learning
+# Concepts
+
+## Back propagation
+
+[Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.8du48vo05)
+
+[CS231n Lecture 4](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+
+# NN
 
 
 ## Architecture
@@ -54,6 +62,12 @@ Evaluation of popular activation functions
 Also, in real life, "derivatives" that you pass to the backdrop don't necessarily have to match the actual mathematical derivatives
 
 [Wiki list of activation functions](https://en.wikipedia.org/wiki/Activation_function)
+
+What's more?
+
+PReLu,
+
+Anti-rectifier??
 
 
 
