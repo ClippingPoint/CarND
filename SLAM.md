@@ -3,3 +3,6 @@
 Related code:
 
   [Car speed estimation windshield camera](http://nicolovaligi.com/car-speed-estimation-windshield-camera.html)
+
+
+[SLAM CN](http://www.slamcn.org/)
