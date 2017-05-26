@@ -21,10 +21,15 @@ DCM (Digital Cosine Matrix method)
 and so on
 
 
+[Procedural paper to read?](http://www.ijera.com/special_issue/ICIAC_April_2014/CS/V9/CS1784649.pdf)
+
 ## State space
 
 [Feedback control system](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-30-feedback-control-systems-fall-2010/lecture-notes/MIT16_30F10_lec11.pdf)
 
+###
+
+[Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/kf_book/gh_internal.py)
 
 ### EKF
 
@@ -34,6 +39,15 @@ R matrix values and Q noise values?
 
 (How to write fast numerical code)[https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf]
 
+Turning of EKF?
+
+R matrix values and Q noise values?
+
+(How to write fast numerical code)[https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf]
+
+
+#### EKF tutorials
+https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf
 
 
 http://home.wlu.edu/~levys/kalman_tutorial/
@@ -41,5 +55,17 @@ http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basic
 https://github.com/PX4/ecl/wiki/Extended-Kalman-Filter---Attitude,-Velocity-and-Position-Estimator
 
 https://balzer82.github.io/Kalman/
+https://www.youtube.com/watch?v=p8H2-vkUM0I
+https://www.youtube.com/watch?v=C7JQ7Rpwn2k
+
+http://home.wlu.edu/~levys/kalman_tutorial/
+http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf
+https://github.com/PX4/ecl/wiki/Extended-Kalman-Filter---Attitude,-Velocity-and-Position-Estimator
+
+https://balzer82.github.io/Kalman/
+[Kalman Filter CV](https://github.com/balzer82/Kalman/blob/master/Kalman-Filter-CV.ipynb?create=1)
+[Kalman Filter Implementation](https://vimeo.com/album/2754700/sort:preset/format:detail)
+[Kalman Filter History](http://blog.csdn.net/xiahouzuoxin/article/details/39582483)
+
 https://www.youtube.com/watch?v=p8H2-vkUM0I
 https://www.youtube.com/watch?v=C7JQ7Rpwn2k
