@@ -1,6 +1,8 @@
 #
 
 ## PID
+[PID without a PhD](http://m.eet.com/media/1112634/f-wescot.pdf)
+
 [PID parameter physical meaning](https://www.zhihu.com/question/23088613)
 
 [Twiddle algorithm](https://martin-thoma.com/twiddle/)
@@ -69,3 +71,8 @@ https://balzer82.github.io/Kalman/
 
 https://www.youtube.com/watch?v=p8H2-vkUM0I
 https://www.youtube.com/watch?v=C7JQ7Rpwn2k
+
+
+## Motion Planning
+
+[UIUC motion planning](http://planning.cs.uiuc.edu/book.html)
