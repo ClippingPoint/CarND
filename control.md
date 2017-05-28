@@ -73,6 +73,9 @@ https://www.youtube.com/watch?v=p8H2-vkUM0I
 https://www.youtube.com/watch?v=C7JQ7Rpwn2k
 
 
+### Particle Filter
+[Particle Filters in Robotics](http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf)
+
 ## Motion Planning
 
 [UIUC motion planning](http://planning.cs.uiuc.edu/book.html)
