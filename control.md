@@ -33,6 +33,8 @@ and so on
 
 [Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/kf_book/gh_internal.py)
 
+More reading of Probabilistic Robotics from S.T.
+
 ### EKF
 
 Turning of EKF?
@@ -71,6 +73,10 @@ https://balzer82.github.io/Kalman/
 
 https://www.youtube.com/watch?v=p8H2-vkUM0I
 https://www.youtube.com/watch?v=C7JQ7Rpwn2k
+
+#### UKF tutorials
+
+[The Unscented Kalman Filter for Nonlinear Estimation](https://www.seas.harvard.edu/courses/cs281/papers/unscented.pdf)
 
 
 ### Particle Filter
