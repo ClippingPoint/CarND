@@ -7,3 +7,11 @@ More SLAMs?
 
 
 What`s more visual odometry?
+
+[General Visual SLAM introduction from ROS willow garage](http://www.ros.org/presentations/2010-08-Helen-VSLAM.pdf)
+
+[Imperial College London SLAM visual odometry](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf)
+
+[Course homepage](https://www.doc.ic.ac.uk/~ajd/Robotics/)
+
+[Cyrill Stachniss](http://www.ipb.uni-bonn.de/teaching/)
